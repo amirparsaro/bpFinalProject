@@ -1,0 +1,1 @@
+fscanf(book, "%d %s %s %s %s", &serial, name, nevisande, resht, &amount)
