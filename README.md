@@ -1,7 +1,7 @@
 # The Library
 
 ## Overview
-The Library is a management system designed to streamline the organization and accessibility of books. It features dedicated roles for librarians and students, each with distinct functionalities.
+This project is a simple library management system featuring librarian and student accounts, each with their own set of options and functionalities.
 
 ## Features
 
