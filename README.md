@@ -9,7 +9,7 @@ The Library is a management system designed to streamline the organization and a
 Librarians have full control over the library system, allowing them to manage books, students, and fellow librarians. Their capabilities include:
 - Adding, editing, and reviewing books in the library.
 - Managing student and librarian accounts, including adding, editing, and reviewing users.
-- Viewing student-generated requests related to book loans or other services.
+- Reviewing student requests for borrowing books.
 - Tracking the history of each book, including its current and past borrowers.
 
 #### Additional Librarian Privileges
