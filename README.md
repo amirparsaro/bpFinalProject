@@ -1,7 +1,7 @@
 # The Library
 
 ## Overview
-This project is a simple library management system featuring librarian and student accounts, each with their own set of options and functionalities.
+This project is a simple library management system featuring librarian and student accounts, each with their own set of options.
 
 ## Features
 
