@@ -6,7 +6,7 @@ This project is a simple library management system featuring librarian and stude
 ## Features
 
 ### Librarians
-Librarians have full control over the library system, allowing them to manage books, students, and other librarians. Their capabilities include:
+Librarians have full control over the library system, which allows them to manage books, students, and other librarians. Their capabilities include:
 - Adding, editing, and reviewing books in the library.
 - Managing student and librarian accounts, including adding, editing, and reviewing users.
 - Reviewing student requests for borrowing books.
