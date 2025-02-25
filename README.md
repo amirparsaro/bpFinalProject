@@ -25,3 +25,7 @@ Students have access to library resources and can:
 ### System Features
 1. **Authentication** – A simple yet secure login system for both students and librarians.
 2. **Role-Based Menus** – Personalized menus with specific options for librarians and students.
+
+### Contributors
+@amirparsaro
+@aryafbz
