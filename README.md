@@ -27,5 +27,5 @@ Students have access to library resources and can:
 2. **Role-Based Menus** – Personalized menus with specific options for librarians and students.
 
 ### Contributors
-@amirparsaro
-@aryafbz
+- [@amirparsaro](https://github.com/amirparsaro)
+- [@aryafbz](https://github.com/aryafbz)
